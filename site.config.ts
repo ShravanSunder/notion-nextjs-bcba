@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BCBA Wiki',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'bcba.vercel.app',
   author: 'Alevtina Makarkina, BCBA',
 
   // open graph metadata (optional)
