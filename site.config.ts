@@ -51,16 +51,28 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  //navigationStyle: 'default'
+  navigationStyle: 'custom',
+  navigationLinks: [
+    {
+      title: 'BCBA Students',
+      pageId: '4ef1a706df614f398036dcadb72fe2a2'
+    },
+    {
+      title: 'Parents',
+      pageId: '45270248d121488b88ba1fdbc529bafa'
+    },
+    {
+      title: 'Blog',
+      pageId: '3f85d41792ae47b49269d778e38dceea'
+    },
+    {
+      title: 'About',
+      pageId: '03228c77ade64f20b44e3aee30a8bf5b'
+    }
+    ,{
+      title: 'Contact',
+      pageId: 'd4a0c77a3643447fa10a061def50774c'
+    }
+  ]
 })
