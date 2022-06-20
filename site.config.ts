@@ -21,7 +21,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'bcba_wiki',
   // github: 'transitive-bullshit',
-  linkedin: 'alevtina-makarkina-69a68a49',
+  linkedin: 'alevtina-makarkina',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
