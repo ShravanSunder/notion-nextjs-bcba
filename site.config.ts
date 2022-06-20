@@ -19,9 +19,9 @@ export default siteConfig({
   description: 'BCBA Wiki: A trusted source for BCBA information',
 
   // social usernames (optional)
-  twitter: 'bcba-wiki',
+  twitter: 'bcba_wiki',
   // github: 'transitive-bullshit',
-  linkedin: 'alevtina-mak',
+  linkedin: 'alevtina-makarkina-69a68a49',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
