@@ -56,22 +56,22 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'BCBA Students',
-      pageId: '4ef1a706df614f398036dcadb72fe2a2'
+      title: 'Family Support',
+      pageId: '30b74b8852684022abd4d2c5630a595a'
     },
     {
-      title: 'Parents',
-      pageId: '45270248d121488b88ba1fdbc529bafa'
+      title: 'BCBA Students',
+      pageId: '3e7b1ce5e704483388718b9f72f3b4c1'
     },
     {
       title: 'Blog',
-      pageId: '3f85d41792ae47b49269d778e38dceea'
+      pageId: 'f82065d9208e4fbf9d6c993c403a6e2e'
     },
     {
       title: 'About',
       pageId: '03228c77ade64f20b44e3aee30a8bf5b'
-    }
-    ,{
+    },
+    {
       title: 'Contact',
       pageId: 'd4a0c77a3643447fa10a061def50774c'
     }
