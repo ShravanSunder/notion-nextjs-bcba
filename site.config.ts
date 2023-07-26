@@ -11,12 +11,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'BCBA Wiki',
+  name: 'Almak Behaviour Consulting',
   domain: 'bcba.vercel.app',
   author: 'Alevtina Makarkina, BCBA',
 
   // open graph metadata (optional)
-  description: 'BCBA Wiki: A trusted source for BCBA information',
+  description: 'Almak Behaviour Consulting',
 
   // social usernames (optional)
   twitter: 'bcba_wiki',
