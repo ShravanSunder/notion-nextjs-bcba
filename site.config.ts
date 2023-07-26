@@ -33,12 +33,12 @@ export default siteConfig({
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // whether or not redis is enabled for caching generated preview images (optional)
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
   // environment variables. see the readme for more info
-  isRedisEnabled: false,
+  isRedisEnabled: true,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
@@ -60,20 +60,16 @@ export default siteConfig({
       pageId: '30b74b8852684022abd4d2c5630a595a'
     },
     {
-      title: 'BCBA Students',
+      title: 'Consultation',
       pageId: '3e7b1ce5e704483388718b9f72f3b4c1'
     },
     {
-      title: 'Blog',
+      title: 'Resources',
       pageId: 'f82065d9208e4fbf9d6c993c403a6e2e'
     },
     {
       title: 'About',
       pageId: '03228c77ade64f20b44e3aee30a8bf5b'
-    },
-    {
-      title: 'Contact',
-      pageId: 'd4a0c77a3643447fa10a061def50774c'
     }
   ]
 })
